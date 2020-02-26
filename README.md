@@ -16,6 +16,6 @@ Figure out the organisation whihc have max contribution for various heads
  
  4. create a relationship between POC% % increase in empathy  / ground work done by people of color and if there is an increase in empathy / ground work due to increase in it. 
  See if there is an increase  / decrease of P{OC % in the years and its effect 
- Hypothesis  - if we increase participation for the people of color by / upto 50% , can we expect an increase in the empathy towards prople's attitude towards the farmed animals. 
+ Hypothesis  - if we increase participation for the people of color by /upto 50% , can we expect an increase in the empathy towards prople's attitude towards the farmed animals. 
  
 
